@@ -1,0 +1,8 @@
+{
+  "name": "emamut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:emamut_net/emamut.git",
+  "author": "Faber Vergara <fabervergara@gmail.com>",
+  "license": "MIT"
+}
